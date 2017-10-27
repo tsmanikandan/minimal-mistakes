@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "air" # "air", "contrast", "dark", "dirt", "mint", "s
 
 # Site Settings
 locale                   : "en"
-title                    : "Mani's Blog"
+title                    : "Code n Stuff"
 title_separator          : "-"
 name                     : "Manikandan Sundararajan"
-description              : "Code n Stuff"
+description              : "A place for me to write about things related to code and stuff"
 url                      : "https://tsmanikandan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tsmanikandan/tsmanikandan.github.io"
