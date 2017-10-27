@@ -16,7 +16,7 @@ description              : "A place for me to write about things related to code
 url                      : "https://tsmanikandan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tsmanikandan/tsmanikandan.github.io"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : "/assets/images/20170901_161927.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
