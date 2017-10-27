@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "air" # "air", "contrast", "dark", "dirt", "mint", "s
 locale                   : "en"
 title                    : "Code n Stuff"
 title_separator          : "-"
-name                     : "Manikandan Sundararajan"
-description              : "A place for me to write about things related to code and stuff"
+name                     : &name "Manikandan Sundararajan"
+description              : &description "A place for me to write about things related to code and stuff"
 url                      : "https://tsmanikandan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tsmanikandan/tsmanikandan.github.io"
-teaser                   : "/assets/images/20170901_161927.png"
+teaser                   : "/assets/images/20170901_161927.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
